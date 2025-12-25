@@ -6,6 +6,7 @@ use Composer\Composer as ComposerApp;
 use Composer\Script\Event;
 use Composer\Semver\Comparator;
 use Composer\Semver\VersionParser;
+use Drupal\Composer\Generator\ComponentGenerator;
 
 
 /**
