@@ -8,6 +8,7 @@ use Composer\Semver\Comparator;
 use Composer\Semver\VersionParser;
 use Drupal\Composer\Generator\ComponentGenerator;
 use Drupal\Composer\Generator\PackageGenerator;
+use Symfony\Component\Finder\Finder;
 
 
 /**
