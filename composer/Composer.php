@@ -5,6 +5,8 @@ namespace Drupal\Composer;
 use Composer\Composer as ComposerApp;
 use Composer\Script\Event;
 use Composer\Semver\Comparator;
+use Composer\Semver\VersionParser;
+
 
 /**
  * Provides static functions for composer script events.
